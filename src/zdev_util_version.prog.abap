@@ -10,7 +10,7 @@
 *& Date             : MM/DD/YYYY                                       *
 *& Business Contact : Functional Team                                  *
 *&---------------------------------------------------------------------*
-*& Program Purpose  :        Test                                      *
+*& Program Purpose  :        Test 1                                    *
 *&                                                                     *
 *&                                                                     *
 *&                                                                     *
