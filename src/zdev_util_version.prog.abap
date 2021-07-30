@@ -49,7 +49,7 @@ DATA :
   lt_alv    TYPE TABLE OF ty_alv,
   ls_alv    TYPE          ty_alv.
 
-DATA message TYPE REF TO cx_salv_msg. " ALV: General Error Class with Message
+DATA message TYPE REF TO cx_salv_msg. "" ALV: General Error Class with Message
 
 
 DATA : lt_bdcdata    TYPE TABLE OF bdcdata,    " Batch input: New table field structure
